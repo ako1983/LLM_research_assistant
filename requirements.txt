@@ -1,0 +1,6 @@
+langchain
+chromadb
+dspy-ai
+openai
+anthropic
+faiss-cpu
